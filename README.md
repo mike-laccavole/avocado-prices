@@ -6,6 +6,6 @@ Avocados taste so good, but they're just so pricey! What is someone to do? Ignor
 
 In this repo, you'll find the following:
 
-    - A Python notebook used for exploring and modeling the data, called `Avocado Price Predictions.ipynb`
-    - The original avocado dataset, called `avocado.csv`
-    - The cleaned and feature engineered avocado dataset used for modeling, called                 `cleaned_and_feature_engineered_avocados.csv`
+A Python notebook used for exploring and modeling the data, called `Avocado Price Predictions.ipynb`
+The original avocado dataset, called `avocado.csv`
+The cleaned and feature engineered avocado dataset used for modeling, called `cleaned_and_feature_engineered_avocados.csv`
